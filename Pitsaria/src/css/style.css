@@ -1,0 +1,90 @@
+#img-background{
+    background-image: url("../img/backround.jpg") ;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+#head-font{
+    font-family: Ubuntu;
+    font-style: normal;
+    background-size:cover;
+}
+
+#header-logo{
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+#header {
+    height:210px;
+    background: auto;
+    border:1px solid white;
+    width: auto;
+    margin: auto;
+    position: static;
+}
+
+#login-username{
+    left: auto;
+    position: relative;
+    width: auto;
+    margin: auto;
+    background-size:cover;
+    font-family: Ubuntu;
+
+}
+#login-password{
+    left: 450px;
+    bottom: 150px;
+    position: relative;
+    width: auto;
+    margin: auto;
+    background-size:cover;
+    font-family: Ubuntu;
+}
+#login-username-form{
+    left:600px;
+    bottom: 120px;
+    position: relative;
+    width: auto;
+    margin: auto;
+    background-size:cover;
+    height: 20px;
+    width: 180px;
+}
+
+#login-password-form{
+    left:670px;
+    bottom: 120px;
+    position: relative;
+    width: auto;
+    margin: auto;
+    background-size:cover;
+    height: 20px;
+    width: 180px;
+}
+
+#connect-button{
+
+    left:1060px;
+    bottom: 145px;
+    position: relative;
+    margin: auto;
+    background-size:cover;
+    height:auto;
+    width: auto;
+    color: black;
+    background-color: #white;
+}
+
+#register{
+    left:600px;
+    bottom: 100px;
+    position: relative;
+    background-size:cover;
+
+
+}
