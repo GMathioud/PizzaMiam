@@ -1,0 +1,13 @@
+#img-background{
+    background-image: url("../img/backround.jpg");
+    background-repeat: inherit;
+    background-attachment: fixed;
+}
+
+#img-logo{
+    position: static;
+
+
+
+
+}
