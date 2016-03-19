@@ -78,7 +78,7 @@
     height:auto;
     width: auto;
     color: black;
-    background-color: #white;
+    background-color: white;
 }
 
 #register{
@@ -86,7 +86,7 @@
     right: auto;
     position: relative;
     background-size:cover;
-    font: Ubuntu;
+    font-family: Ubuntu;
     color: #000000;
     font-size: large;
 }
@@ -94,7 +94,7 @@
     left:890px;
     position: relative;
     background-size:cover;
-    font: Ubuntu;
+    font-family: Ubuntu;
     color: #000000;
     font-size: large;
     right: auto;
@@ -102,7 +102,7 @@
 }
 
 #menu {
-    top::2%;
+    top:2%;
     background-color: #fdfff3;
     height:50px;
     margin: auto;
@@ -113,7 +113,7 @@
 }
 
 #font{
-    font: Ubuntu;
+    font-family: Ubuntu;
     font-size: xx-large;
     font-style: normal;
     background-color: transparent;
@@ -144,7 +144,7 @@
   }
 
 #font-package{
-    font: Ubuntu;
+    font-family: Ubuntu;
     font-size: large;
     font-style: normal;
     background-color: transparent;
@@ -165,14 +165,14 @@
 }
 
 #font-package{
-    font: Ubuntu;
+    font-family: Ubuntu;
     font-size: xx-large;
     font-style: normal;
     background-color: #ffd700;
 }
 
 #font-package-style{
-    font: Ubuntu;
+    font-family: Ubuntu;
     font-size: xx-large;
     font-style: normal;
     background-color: red;
