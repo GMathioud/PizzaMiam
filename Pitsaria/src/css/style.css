@@ -9,6 +9,7 @@
     font-family: Ubuntu;
     font-style: normal;
     background-size:cover;
+    top:10%;
 }
 
 #header-logo{
@@ -21,14 +22,14 @@
 #header {
     height:210px;
     background: auto;
-    border:1px solid white;
     width: auto;
-    margin: 100px;
+    margin: auto;
     position: static;
 }
 
 #login-username{
-    left: auto;
+    left: 370px;
+    bottom: 150px;
     position: relative;
     width: auto;
     margin: auto;
@@ -37,7 +38,7 @@
 
 }
 #login-password{
-    left: 450px;
+    left: 480px;
     bottom: 150px;
     position: relative;
     width: auto;
@@ -81,10 +82,98 @@
 }
 
 #register{
-    left:600px;
-    bottom: 100px;
+
+    right: auto;
     position: relative;
     background-size:cover;
+    font: Ubuntu;
+    color: #000000;
+    font-size: large;
+}
+#forget-pass{
+    left:890px;
+    position: relative;
+    background-size:cover;
+    font: Ubuntu;
+    color: #000000;
+    font-size: large;
+    right: auto;
+
+}
+
+#menu {
+    top::2%;
+    background-color: #fdfff3;
+    height:50px;
+    margin: auto;
+    position: relative;
+    right: auto;
+    opacity: 0.9;
+    width: 102%;
+}
+
+#font{
+    font: Ubuntu;
+    font-size: xx-large;
+    font-style: normal;
+    background-color: transparent;
+}
 
 
+#prosfores{
+
+    top: 50px;
+    background-color: #fdfff3;
+    height:40px;
+    margin: auto;
+    position: relative;
+    right: auto;
+    opacity: 0.9;
+ }
+
+#paketa-zumarika{
+    left: 50px;
+    top: 80px;
+    background-color: transparent;
+    height:420px;
+    width: auto;
+    margin: auto;
+    position: relative;
+    right: auto;
+    opacity: 0.9;
+  }
+
+#font-package{
+    font: Ubuntu;
+    font-size: large;
+    font-style: normal;
+    background-color: transparent;
+}
+
+#paketa-salates{
+    left: -400px;
+    top: 0px;
+    background-color: transparent;
+    height:420px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    right: auto;
+    opacity: 0.9;
+    border: 2px solid white;
+
+}
+
+#font-package{
+    font: Ubuntu;
+    font-size: xx-large;
+    font-style: normal;
+    background-color: #ffd700;
+}
+
+#font-package-style{
+    font: Ubuntu;
+    font-size: xx-large;
+    font-style: normal;
+    background-color: red;
 }
